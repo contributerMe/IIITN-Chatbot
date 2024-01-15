@@ -1,0 +1,152 @@
+You: Hi
+Bot: Hey there!
+ How can I help you
+You: how are you
+Bot: I'm great! Thanks for asking.
+You: tell me the procedure of admission
+Bot: Admission in this college are done through the IIT-JEE and through the JOSSA admission process.
+Go to the website of IIITN https://iiitn.ac.in/ to read the admission procedure
+You: are there any scholarships available?
+Bot: There are different scholarships available like NSP, MAHADBT etc. Head to https://iiitn.ac.in/ to get more details
+You: is there any refund for fees?
+Bot: Sorry! IIIT Nagpur does not offer any type of refund for academic as well as hostel fees
+You: bracnhes batao college mein kiti hai?
+Bot: Do you mind trying to rephrase that?
+You: branches 
+Bot: Currently two branches are there i.e CSE and ECE
+You: tell me about faculty
+Bot: Faculty is very good with most of them have so much experience of teaching and are qualified from top colleges of India
+ Some faculties are:-
+1.Dr.Tausif Diwan(HOD CSE)
+2.Dr.Mayur Parate(HOD ECE)
+3.Dr.Shishupal Kumar
+4.Dr. Charu Goel
+5.Dr.Shankar
+6.Dr.Rahul Semwal
+You: what re the cse faculties?
+Bot: Oh! It appears you wrote something I don't understand yet
+You: hello bot
+Bot: Hey there!
+ How can I help you
+You: tell me abt admissions
+Bot: Do you mind trying to rephrase that?
+You: admission
+Bot: Admission in this college are done through the IIT-JEE and through the JOSSA admission process.
+Go to the website of IIITN https://iiitn.ac.in/ to read the admission procedure
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: Please try writing something more descriptive.
+You: exit
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: bye
+Bot: See you later!
+You: hi
+Bot: Hey there!
+ How can I help you
+You: admission
+Bot: Admission in this college are done through the IIT-JEE and through the JOSSA admission process.
+Go to the website of IIITN https://iiitn.ac.in/ to read the admission procedure
+You: admissions
+Bot: I can't answer that yet, please try asking something else.
+You: admissions
+Bot: Please try writing something more descriptive.
+You: hi
+Bot: Hey there!
+ How can I help you
+You: admission
+Bot: Admission in this college are done through the IIT-JEE and through the JOSSA admission process.
+Go to the website of IIITN https://iiitn.ac.in/ to read the admission procedure
+You: admissions
+Bot: I can't answer that yet, please try asking something else.
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: I can't answer that yet, please try asking something else.
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: I can't answer that yet, please try asking something else.
+You: hi
+Bot: Hey there!
+ How can I help you
+You: admissions
+Bot: Oh! It appears you wrote something I don't understand yet
+You: admission
+Bot: Admission in this college are done through the IIT-JEE and through the JOSSA admission process.
+Go to the website of IIITN https://iiitn.ac.in/ to read the admission procedure
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: Do you mind trying to rephrase that?
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: Please try writing something more descriptive.
+You: exit()
+Bot: Please try writing something more descriptive.
+You: bye
+Bot: See you later!
+You: 
+Bot: Please type something so we can chat :(
+You: 
+Bot: Please type something so we can chat :(
+You: admissions
+Bot: Please try writing something more descriptive.
+You: admission
+Bot: Oh! It appears you wrote something I don't understand yet
+You: admission
+Bot: I can't answer that yet, please try asking something else.
+You: tell me about admissions
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: hello
+Bot: Hey there!
+ How can I help you
+You: how are you
+Bot: I'm great! Thanks for asking.
+You: what is oop
+Bot: Oh! It appears you wrote something I don't understand yet
+You: python -u "c:\Users\nimes\Downloads\GROUP-1 ITW1 CHATBOT\json_chatbot\main.py"
+Bot: Please try writing something more descriptive.
+You: hi
+Bot: Hey there!
+ How can I help you
+You: hello
+Bot: Hey there!
+ How can I help you
+You: tell me about admission
+Bot: Please try writing something more descriptive.
+You: tell me about admissions
+Bot: Do you mind trying to rephrase that?
+You: what is admissions
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: offer me  a refund
+Bot: Sorry! IIIT Nagpur does not offer any type of refund for academic as well as hostel fees
+You: hey 
+Bot: Hey there!
+ How can I help you
+You: help me with the refund policy that your college offer
+Bot: Sorry! IIIT Nagpur does not offer any type of refund for academic as well as hostel fees
+You: math cource
+Bot: I'm terribly sorry, I didn't quite catch that.
+You: calculus cource
+Bot: I can't answer that yet, please try asking something else.
+You: itw cource what is
+Bot: Please try writing something more descriptive.
+You: hello
+Bot: Hey there!
+ How can I help you
+You: I am a college student
+Bot: Oh! It appears you wrote something I don't understand yet
+You: I am a professor
+Bot: I can't answer that yet, please try asking something else.
+You: I am a man
+Bot: I can't answer that yet, please try asking something else.
+You: bbjb
+Bot: Oh! It appears you wrote something I don't understand yet
+You: jdcjd
+Bot: Oh! It appears you wrote something I don't understand yet
+You: jbjd
+Bot: Please try writing something more descriptive.
+You: How do you reply
+Bot: I can't answer that yet, please try asking something else.
+You: branches
+Bot: Currently two branches are there i.e CSE and ECE
+You: How many branches does clg has
+Bot: Currently two branches are there i.e CSE and ECE
+You: how many bbejcbjbwdbjjb wjhfjf ijwdkjbe branches
+Bot: Currently two branches are there i.e CSE and ECE

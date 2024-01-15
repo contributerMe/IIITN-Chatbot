@@ -1,0 +1,166 @@
+[
+  {
+    "type": "starting",
+    "user": ["hello", "hi", "hey"],
+    "bot": "Hey there!\n How can I help you",
+    "required_words": []
+  },
+  {
+    "type": "Ending",
+    "user": ["goodbye", "bye"],
+    "bot": "See you later!",
+    "required_words": []
+  },
+  {
+    "type": "greeting",
+    "user": ["nice", "to", "meet", "you"],
+    "bot": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "type": "question",
+    "user": ["how", "to", "take", "admission","admissions", "in", "IIIT Nagpur"],
+    "bot": "Admission in this college are done through the IIT-JEE and through the JOSSA admission process.\nGo to the website of IIITN https://iiitn.ac.in/ to read the admission procedure",
+    "required_words": ["admission","admissions"]
+  },
+  {
+    "type": "question",
+    "user": ["how", "are", "the", "placements", "of", "IIIT Nagpur"],
+    "bot": "Placements are so good here\nHighest package is 40lpa\nAverage package is 12lpa ",
+    "required_words": ["placements"]
+  },
+  {
+    "type": "question",
+    "user": ["how", "much", "is", "the", "fees","of", "IIIT Nagpur"],
+    "bot": "Fees of the college changes every year\nFor academic year 2022-2023 it is around 9lpa for academics and including hostel it is aroud 15lpa",
+    "required_words": ["fees"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "is", "the", "address", "of", "IIIT Nagpur"],
+    "bot": "Survey No. 140,141/1 behind Br. Sheshrao Wankhade Shetkari Sahkari Soot Girni, Village - Waranga, PO - Dongargaon(Butibori), Tahsil- Nagpur (Rural), District Nagpur, Maharashtra- 441108",
+    "required_words": ["address"]
+  },
+  {
+    "type": "question",
+    "user": ["Is", "there", "any", "refund", "policy","in", "IIIT Nagpur"],
+    "bot": "Sorry! IIIT Nagpur does not offer any type of refund for academic as well as hostel fees",
+    "required_words": ["refund"]
+  },
+
+
+  {
+    "type": "question",
+    "user": ["Give", "me", "the", "syllabus", "for", "CSE","branch"],
+    "bot": "To get the syllabus for CSE department, head to https://iiitn.ac.in/Downloads/SYLLABUS-FOR-CSE-2016.pdf",
+    "required_words": ["syllabus","cse"]
+  },
+  {
+    "type": "question",
+    "user": ["Give", "me", "the", "syllabus", "for", "ECE","branch"],
+    "bot": "To get the syllabus for ECE department, head to https://iiitn.ac.in/Downloads/academic/ece/scheme/ECE_Scheme_Batch_2016.pdf",
+    "required_words": ["syllabus","ece"]
+  },
+  {
+    "type": "question",
+    "user": ["how", "many", "branches", "are", "there", "IIIT Nagpur"],
+    "bot": "Currently two branches are there i.e CSE and ECE",
+    "required_words": ["branches"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "subjects", "in", "CSE"],
+    "bot": "There are different subjects like IT WORKSHOP, OOPS, MICROPROCESSORS etc.",
+    "required_words": ["subjects", "cse"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "subjects", "in", "ECE"],
+    "bot": "There are different subjects like Electronics, Analog Signal, etc.",
+    "required_words": ["subjects","ece"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "scholarships", "in", "IIIT Nagpur"],
+    "bot": "There are different scholarships available like NSP, MAHADBT etc. Head to https://iiitn.ac.in/ to get more details",
+    "required_words": ["scholarships"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "facilities", "available", "in","the","campus"],
+    "bot": "Facilities like 24*7 WIFI, smart class rooms etc are available in the campus",
+    "required_words": ["facilities"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "assignments", "given", "to ","the","students"],
+    "bot": "Each faculty gives assignments to the students like projects, problems,etc. throughout the semester.",
+    "required_words": ["assignments"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "assignments", "for","the","OOPS" ,"course"],
+    "bot": "You have to make the mini project in JAVA. Go to https://github.com/Ayush-singla27/OOPS-mini-project for more reference",
+    "required_words": ["assignments","oops"]
+  },
+  {
+    "type": "question",
+    "user": ["what", "are", "the", "assignments", "for","the","microprocessor" ,"course"],
+    "bot": "You have to make the mini project using 8085 microprocessor. Go to https://www.tutorialspoint.com/8085-program-to-simulate-a-real-time-clock for more reference",
+    "required_words": ["assignments","microprocessor"]
+  },
+
+  {
+    "type": "question",
+    "user": ["how", "is", "the", "faculty", "of", "IIIT Nagpur "],
+    "bot": "Faculty is very good with most of them have so much experience of teaching and are qualified from top colleges of India\n Some faculties are:-\n1.Dr.Tausif Diwan(HOD CSE)\n2.Dr.Mayur Parate(HOD ECE)\n3.Dr.Shishupal Kumar\n4.Dr. Charu Goel\n5.Dr.Shankar\n6.Dr.Rahul Semwal",
+    "required_words": ["faculty"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "some", "details", "about", "OOPS", "subject "],
+    "bot": "OOPS is basically object oriented programming and it is teach by Puja Gudadhe",
+    "required_words": ["oops"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "some", "details", "about", "microprocessor", "subject "],
+    "bot": "microprocessor and interfacing is teach by Shankar Bhattacharya. In this we basically learnt about the 8085 microprocessor",
+    "required_words": ["microprocessor"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "some", "details", "about", "maths", "subject "],
+    "bot": "maths is teach by Dr. Charu Goel. In this we learnt about Numerical Methods and many conceps related to probability ",
+    "required_words": ["maths"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "some", "details", "about", "DSA", "subject "],
+    "bot": "Data Structures with Applications is teach by Rahul Semwal. In this we basically learnt about the different data structures and alogorithms ",
+    "required_words": ["dsa"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "some", "details", "about", "CSO", "subject "],
+    "bot": "Computer System Organisation is teach by Mayuri Digalwar. In this we basically learnt about the architecture of the computer ",
+    "required_words": ["cso"]
+  },
+  {
+    "type": "question",
+    "user": ["Give ", "details", "about", "CSE", "faculties "],
+    "bot": "HOD of CSE Department is Dr.Tausif Diwan. To get know about other staff of CSE BRANCH head to https://iiitn.ac.in/page/faculty/192/ ",
+    "required_words": ["cse","faculties"]
+  },{
+    "type": "question",
+    "user": ["Give ", "details", "about", "ECE", "faculties "],
+    "bot": "HOD of ECE Department is Dr.Mayur Parate. To get know about other staff of ECE BRANCH head to https://iiitn.ac.in/page/faculty/204/ ",
+    "required_words": ["ece","faculties"]
+  },
+  {
+    "type": "question",
+    "user": ["how", "are", "you"],
+    "bot": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  }
+]
